@@ -14,7 +14,7 @@
 
 <meta name="Description" content="">
 
-<title>Wang Xinmeng</title>
+<title></title>
 
 </head>
 
