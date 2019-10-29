@@ -1,4 +1,4 @@
-<!doctype html>
+
 
 <html>
 
@@ -14,7 +14,7 @@
 
 <meta name="Description" content="">
 
-<title></title>
+
 
 </head>
 
